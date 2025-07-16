@@ -79,21 +79,6 @@ To set up the Lung Cancer Detection project locally, follow these steps:
 - `requirements.txt`: Lists Python dependencies.
 - `README.md`: This file, providing project documentation.
 
-## Contributing
-Contributions are welcome to improve the model’s accuracy, add features, or enhance the web interface. To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make changes and commit (`git commit -m "Add your feature"`).
-4. Push to your branch (`git push origin feature/your-feature`).
-5. Create a pull request.
-
-Please follow Python and TensorFlow coding guidelines and include tests for new features.
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- The Cancer Imaging Archive for providing access to CT scan datasets.[](https://github.com/VinayBN8997/Lung_Cancer_Detection_Using_Python)
-- The open-source community for tools like TensorFlow, Keras, and Flask.
-- Inspiration from the Kaggle Data Science Bowl 2017 and LUNA16 challenge for lung cancer detection research.[](https://github.com/katyaputintseva/LungCancer)
 
